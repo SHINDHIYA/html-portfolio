@@ -1,10 +1,11 @@
 # html-portfolio
-
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
   <meta charset="UTF-8">
- 
+  <title> My Resume </title>
+  
   </head>
   <body>
     <h1> SHINDHIYA E K</h1>
